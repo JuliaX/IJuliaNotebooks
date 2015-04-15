@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html><head><title>Error 403</title></head>
+<body>
+<h1>Error 403</h1>
+
+<p>To fix this error:</p>
+
+<ul>
+  <li>Don't use anonymizers, open proxies, VPNs, or TOR to access Project Gutenberg.</li>
+  <li>Don't access Project Gutenberg from hosted servers.</li>
+  <li>Don't use automated software to download lots of books. We have a limit on how fast you can go while using this site. If you surpass this limit you get blocked for 24h.</li>
+  <li>We have a daily limit on how many books you can download. If you exceeded this limit you get blocked for 24h.</li>
+</ul>
+
+<p>
+If you are sure that none of the above applies to you, 
+and wish us to investigate the problem,
+we need to know your IP address.
+Go to <a href="http://www.whatismyip.com/">this site</a>,
+don't sign up, 
+just copy the IP address 
+(it looks like: 12.34.56.78 but your numbers will be different)
+and
+<a href="mailto:webmaster@gutenberg.org?subject=403%20help">mail it to us</a>.
+If that page also shows a proxy address, we need that one instead. 
+</p>
+
+</body>
+</html>
